@@ -14,9 +14,7 @@ body {
 p {font-size: calc(0.9em + 1vw)}
 h1 {font-size: calc(1.3em + 2vw)}
 
-.view-height {
-    height: 90vh;
-}
+.view-height {height: 90vh;}
 
 .container, header, .central, footer {
     display: -webkit-flex;
@@ -46,13 +44,9 @@ header {
     margin: 0 auto;
 }
 
-article {
-    margin: auto;
-}
+article {margin: auto;}
 
-.central h1, .central p {
-    margin: 10px auto;
-}
+.central h1, .central p {margin: 10px auto;}
 
 footer {
     height: 5vh;
